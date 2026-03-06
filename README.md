@@ -1,2 +1,5 @@
-# mtc-repo-staging
-staging | This is a repository for the MTC Terraform code example | Language: Python
+# Python Developer Repository
+
+### Environment: staging
+
+Created by: ChrisSamHarris
